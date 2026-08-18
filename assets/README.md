@@ -1,10 +1,11 @@
 # Assets
 
-Store supporting certificate files and images here when sharing is appropriate.
+Store supporting certificate files/images here when public sharing is appropriate.
 
 ## Recommended Structure
 
 - `assets/ai-ml/`
+- `assets/computer-vision/`
 - `assets/computer-science/`
 - `assets/cloud/`
 - `assets/data-science/`
@@ -16,6 +17,6 @@ Store supporting certificate files and images here when sharing is appropriate.
 
 Use: `YYYY-MM-certification-short-name.<ext>`
 
-## Privacy Note
+## Privacy & Security Note
 
-Only include files that are safe to share publicly. Redact personal identifiers if required.
+Do not upload files containing sensitive personal identifiers. Redact private details before committing publicly.

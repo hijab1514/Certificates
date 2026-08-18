@@ -1,21 +1,92 @@
 # Certification & Professional Learning Portfolio
 
-A curated portfolio of certifications, professional coursework, and applied learning in Computer Science, AI/ML, Computer Vision, Foundation Models, Aerospace/Autonomous Systems, Cloud, and Software Engineering.
+![Portfolio](https://img.shields.io/badge/Portfolio-Professional%20Learning-0A66C2)
+![Focus](https://img.shields.io/badge/Focus-AI%20%7C%20CV%20%7C%20Research-6f42c1)
+![Status](https://img.shields.io/badge/Status-Continuously%20Updated-2ea44f)
 
-This repository is structured for academic, research, internship, and professional review.
+## 👋 About
 
-## Certification Statistics
+A curated portfolio of certifications, technical growth, and continuous learning in AI, Machine Learning, Computer Vision, Foundation Models, Aerospace/Autonomous Systems, Cloud, and Software Engineering.
 
-| Metric | Value |
-| --- | --- |
-| Total Certifications | `TBD` |
-| Active Learning Paths | `TBD` |
-| Most Recent Certification | `TBD` |
-| Last Updated | `YYYY-MM-DD` |
+Designed for quick review by recruiters, professors, research supervisors, and internship/graduate admissions committees.
 
-## Certification Categories
+## 📊 Certification Overview
+
+| Category | Certifications |
+| --- | ---: |
+| 🤖 AI & Machine Learning | `TBD` |
+| 👁️ Computer Vision | `TBD` |
+| 💻 Computer Science | `TBD` |
+| ☁️ Cloud & DevOps | `TBD` |
+| 📈 Data Science | `TBD` |
+| 🛠️ Software Development | `TBD` |
+| 🔬 Research & Academic | `TBD` |
+| 📚 Other | `TBD` |
+| **Total** | **`TBD`** |
+
+> Keep values evidence-based and update after adding completed certifications.
+
+## ⭐ Featured Certifications
+
+> Selected certifications most relevant to AI, CV, ML, software engineering, and research goals.
+
+| Certification | Issuer | Skills | Date | Verification |
+| --- | --- | --- | --- | --- |
+| `TBD` | `TBD` | `TBD` | `YYYY-MM-DD` | `Add official link` |
+| `TBD` | `TBD` | `TBD` | `YYYY-MM-DD` | `Add official link` |
+| `TBD` | `TBD` | `TBD` | `YYYY-MM-DD` | `Add official link` |
+
+## 🧠 Skills Developed
+
+### Artificial Intelligence & Machine Learning
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Generative AI / Foundation Models
+- Model evaluation
+
+### Software Engineering
+- Python / C-C++ / JavaScript-TypeScript
+- Git & GitHub workflows
+- APIs and backend fundamentals
+- Testing and debugging
+
+### Research & Technical Skills
+- Research methodology
+- Scientific literature analysis
+- Technical writing and documentation
+- Data analysis and interpretation
+
+> Keep only skills supported by certifications and/or linked projects.
+
+## 🛠️ Related Projects
+
+| Project | Area | Link |
+| --- | --- | --- |
+| `TBD` | `TBD` | `Add GitHub project link` |
+
+## 🗺️ Learning Roadmap
+
+See [learning-path/README.md](./learning-path/README.md) for full details.
+
+### Completed
+- [ ] `TBD`
+
+### Currently Building
+- [ ] Advanced Computer Vision
+- [ ] Generative AI
+- [ ] Multimodal Foundation Models
+
+### Future Goals
+- [ ] Advanced Deep Learning
+- [ ] Explainable AI
+- [ ] Autonomous Systems
+- [ ] AI for Aerospace Applications
+
+## 📁 Certification Categories
 
 - [AI & Machine Learning](./certifications/ai-ml/README.md)
+- [Computer Vision](./certifications/computer-vision/README.md)
 - [Computer Science](./certifications/computer-science/README.md)
 - [Cloud & DevOps](./certifications/cloud/README.md)
 - [Data Science](./certifications/data-science/README.md)
@@ -23,62 +94,36 @@ This repository is structured for academic, research, internship, and profession
 - [Research & Academic](./certifications/research/README.md)
 - [Other](./certifications/other/README.md)
 
-## Featured Certifications
+## 🔗 Portfolio Navigation
 
-> Add your highest-impact or most relevant certifications here.
+- Master index: [certifications/README.md](./certifications/README.md)
+- Skills matrix: [skills/README.md](./skills/README.md)
+- Learning roadmap: [learning-path/README.md](./learning-path/README.md)
+- Certificate assets: [assets/README.md](./assets/README.md)
+- Certification entry template: [certifications/certification-template.md](./certifications/certification-template.md)
 
-| Certification | Organization | Focus Area | Date |
-| --- | --- | --- | --- |
-| `TBD` | `TBD` | `TBD` | `YYYY-MM-DD` |
-| `TBD` | `TBD` | `TBD` | `YYYY-MM-DD` |
-| `TBD` | `TBD` | `TBD` | `YYYY-MM-DD` |
-
-## Technical Skills Demonstrated Through Certifications
-
-- Machine Learning & Deep Learning
-- Computer Vision
-- Foundation Models / LLM Workflows
-- Data Analysis & Statistics
-- Cloud Platforms & MLOps
-- Software Engineering Practices
-- Research Methods & Scientific Communication
-
-> Update skill coverage in detail at [skills/README.md](./skills/README.md).
-
-## Learning Roadmap
-
-See [learning-path/README.md](./learning-path/README.md) for planned learning goals and upcoming certifications.
-
-## Portfolio Navigation
-
-- Master certification index: [certifications/README.md](./certifications/README.md)
-- Certificate assets and supporting files: [assets/README.md](./assets/README.md)
-- Reusable certification entry template: [certifications/certification-template.md](./certifications/certification-template.md)
-
-## Professional Profiles
+## 👤 Professional Profiles
 
 - GitHub: [@your-github-username](https://github.com/your-github-username)
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-id)
 
-## How to Add a New Certification
+## ➕ How to Add a New Certification
 
-1. Identify the correct category folder under `certifications/`.
-2. Add or update a certification detail file in that category using [`certifications/certification-template.md`](./certifications/certification-template.md).
-3. Add one row to the category table (`certifications/<category>/README.md`).
-4. Add one row to the master table in [`certifications/README.md`](./certifications/README.md).
-5. Update `Certification Statistics` in this README.
-6. If applicable, place certificate files in `assets/` and reference them in the certification detail file.
+1. Select the correct category folder in `certifications/`.
+2. Create a certification mini-page using one of these conventions:
+   - `certifications/<category>/YYYY-MM-certification-short-name.md`, or
+   - `certifications/<category>/certification-short-name/README.md`
+3. Populate fields using factual data only (no estimated/fabricated values).
+4. Add one row to:
+   - `certifications/<category>/README.md`
+   - `certifications/README.md`
+5. If shareable, add certificate evidence under `assets/<category>/`.
+6. Update overview stats and featured certifications if applicable.
 
-### Naming Conventions
+## 📜 Verification
 
-- Category folder names: lowercase kebab-case (already defined)
-- Certification detail files: `YYYY-MM-certification-short-name.md`
-- Certificate assets: `assets/<category>/<YYYY-MM-certification-short-name>.<ext>`
+Each certification should include an official credential verification URL where available. Certificate files/images are included only for supporting verification where appropriate.
 
-## Verification
+## ⚠️ Disclaimer
 
-Where possible, each certification entry should include an official credential verification URL from the issuing organization. Certificate files are included for supporting verification when appropriate.
-
-## Disclaimer
-
-This repository is a personal certification and professional learning portfolio. Certification ownership and status should be independently verified through the issuing organization’s official credential platform whenever available.
+This repository is a personal professional-learning portfolio. Certification ownership and validity should be confirmed through the issuing organization’s official credential platform whenever available.

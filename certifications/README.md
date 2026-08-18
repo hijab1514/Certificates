@@ -1,6 +1,6 @@
 # Certifications Index
 
-Central index of all certifications in this portfolio.
+Central tracking table for all certifications in this portfolio.
 
 ## Master Certification Table
 
@@ -8,11 +8,10 @@ Central index of all certifications in this portfolio.
 | --- | --- | --- | --- | --- | --- | --- |
 | `TBD` | `TBD` | `AI & Machine Learning` | `YYYY-MM-DD` | `Add official link` | `TBD` | `Planned / In Progress / Completed` |
 
-> Add one row per certification and keep this table synchronized with category tables.
-
 ## Category Quick Links
 
 - [AI & Machine Learning](./ai-ml/README.md)
+- [Computer Vision](./computer-vision/README.md)
 - [Computer Science](./computer-science/README.md)
 - [Cloud & DevOps](./cloud/README.md)
 - [Data Science](./data-science/README.md)
@@ -20,20 +19,31 @@ Central index of all certifications in this portfolio.
 - [Research & Academic](./research/README.md)
 - [Other](./other/README.md)
 
+## Repository Conventions (Scalable Structure)
+
+Use one certification mini-page per credential for maintainability.
+
+- Option A: `certifications/<category>/YYYY-MM-certification-short-name.md`
+- Option B: `certifications/<category>/certification-short-name/README.md`
+- Optional certificate file: `assets/<category>/YYYY-MM-certification-short-name.<ext>`
+
+If certificate files should live beside a mini-page:
+
+- `certifications/<category>/certification-short-name/certificate.<ext>`
+
 ## How to Add a New Certification
 
-1. Duplicate [`certification-template.md`](./certification-template.md) and save it in the appropriate category folder.
-2. Use this naming format for detail files: `YYYY-MM-certification-short-name.md`.
-3. Fill all template fields using factual information only.
-4. Add the certification to:
-   - the relevant category table
-   - this master table
-5. Add certificate evidence under `assets/` (if shareable and appropriate).
+1. Copy [`certification-template.md`](./certification-template.md).
+2. Create the mini-page in the correct category with one naming convention above.
+3. Fill fields with verifiable, factual information only.
+4. Add one row to the category README table.
+5. Add one row to this master table.
+6. Add verification URL and certificate file reference when available.
 
 ## Verification
 
-Use official verification pages whenever available (credential platform URLs, public credential pages, or issuer verification endpoints). If no official URL exists, clearly mark verification as unavailable and provide supporting certificate files where appropriate.
+Prefer official issuer credential-verification URLs. If unavailable, clearly note `N/A` and include non-sensitive supporting certificate files only when appropriate.
 
 ## Disclaimer
 
-This repository is maintained as a personal learning portfolio. All credentials should be validated against the issuing organization’s official records when available.
+This repository is a personal learning portfolio. Credential ownership and status should be validated through issuing organizations’ official credential platforms when possible.
