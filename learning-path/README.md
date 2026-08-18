@@ -1,22 +1,17 @@
-# Learning Path
+# Learning Path & Roadmap
 
-A structured roadmap of upcoming certifications and learning priorities.
+## Evidence-Based Current Position
+Verified certifications currently support progress in AI/ML, Computer Vision, and Computer Science fundamentals.
 
-## Current Focus Areas
+## Next Focus Areas
+- Cloud & DevOps certifications
+- Data Science certifications
+- Research and academic method certifications
+- Autonomous/Aerospace-related certifications (when evidence is available)
 
-- AI / Machine Learning
-- Computer Vision and Foundation Models
-- Aerospace / Autonomous Systems Applications
-- Software Engineering for Reliable ML Systems
-
-## Planned Certifications
-
-| Planned Certification | Category | Target Timeline | Priority | Status |
-| --- | --- | --- | --- | --- |
-| `TBD` | `TBD` | `YYYY-Q#` | `High / Medium / Low` | `Planned` |
-
-## Learning Strategy
-
-- Prioritize certifications with strong practical and research relevance.
-- Balance theoretical depth with implementation-focused programs.
-- Track how each certification contributes to projects, internships, and graduate study goals.
+## Planned Certification Pipeline
+| Priority | Program / Certification | Target Category | Target Date | Status |
+|---|---|---|---|---|
+| 1 | Not provided | Cloud & DevOps | Not provided | Planned |
+| 2 | Not provided | Data Science | Not provided | Planned |
+| 3 | Not provided | Research & Academic | Not provided | Planned |

@@ -1,22 +1,15 @@
 # Assets
 
-Store supporting certificate files/images here when public sharing is appropriate.
+Store supplementary certificate artifacts (images, exports, screenshots) here when needed.
 
-## Recommended Structure
+## Current Evidence Location
+Current certificate evidence files are stored under category folders in `/certifications`.
 
-- `assets/ai-ml/`
-- `assets/computer-vision/`
-- `assets/computer-science/`
-- `assets/cloud/`
-- `assets/data-science/`
-- `assets/software-development/`
-- `assets/research/`
-- `assets/other/`
+## Recommended Organization
+- `/assets/<category>/`
+- `/assets/shared/`
 
-## File Naming Convention
-
-Use: `YYYY-MM-certification-short-name.<ext>`
-
-## Privacy & Security Note
-
-Do not upload files containing sensitive personal identifiers. Redact private details before committing publicly.
+## Notes
+- Prefer one canonical evidence file per certification record.
+- If duplicate files exist, keep one primary file and note duplicates in the certification page.
+- Prefer official verification links in addition to local files.

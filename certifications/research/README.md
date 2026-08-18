@@ -1,21 +1,12 @@
-# Research & Academic
-
-Certifications and formal learning relevant to research methodology, academic writing, and applied scientific inquiry.
+# Research & Academic Certifications
 
 ## Certifications
+| Certification | Issuer | Date | Credential ID | Skills | Verification | Evidence |
+|---|---|---|---|---|---|---|
+| _No verified certifications recorded yet_ |  |  |  |  |  |  |
 
-| Certification | Issuer | Date | Verification | Skills | Status |
-| --- | --- | --- | --- | --- | --- |
-| `TBD` | `TBD` | `YYYY-MM-DD` | `Add official link` | `TBD` | `Planned / In Progress / Completed` |
+## Skills Gained (From Verified Evidence)
+Not provided yet.
 
-## Skills Gained
-
-- Research design and methodology
-- Literature review and critical analysis
-- Technical communication and presentation
-
-## Relevant Technologies / Tools
-
-- LaTeX
-- Zotero / reference managers
-- Python / MATLAB (domain-dependent)
+## Relevant Technologies / Tools (From Verified Evidence)
+Not provided yet.

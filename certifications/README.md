@@ -1,15 +1,19 @@
-# Certifications Index
+# Certifications Master Database
 
-Central tracking table for all certifications in this portfolio.
+## Evidence Audit (2026-08-18)
+- Evidence files inspected: **5 PDF files**
+- Verified unique certifications: **4**
+- Duplicate evidence detected: **1** (`computer-science/Microsoft.pdf` duplicates `computer-vision/Microsoft.pdf`)
 
-## Master Certification Table
+## Master Certification Tracker
+| Certification | Issuer | Category | Date | Credential ID | Skills | Verification | Evidence |
+|---|---|---|---|---|---|---|---|
+| [Build & Deploy AI Messenger Chatbot using IBM Watson](./ai-ml/2023-01-build-deploy-ai-messenger-chatbot-ibm-watson.md) | Deprecated Guided Projects (via Coursera) | AI & Machine Learning | 2023-01-17 | DECNH7MJNSFF | AI chatbot project, IBM Watson integration | https://coursera.org/verify/DECNH7MJNSFF | `certifications/ai-ml/Built and deploy AI.pdf` |
+| [ML for Beginners](./ai-ml/2024-11-ml-for-beginners.md) | Not provided | AI & Machine Learning | 2024-11-17 | CC-AYGZSUGH | Theoretical and practical understanding of ML for Beginners | Not provided | `certifications/ai-ml/ML for begineers.pdf` |
+| [Programming Languages Ⅰ](./computer-science/2023-01-programming-languages-1.md) | Korea Advanced Institute of Science and Technology (KAIST) via Coursera | Computer Science | 2023-01-17 | GFH95882DXF5 | Programming language foundations | https://coursera.org/verify/GFH95882DXF5 | `certifications/computer-science/Proggramming Language 1.pdf` |
+| [Build a computer vision app with Azure Cognitive Services](./computer-vision/2026-01-build-computer-vision-app-azure-cognitive-services.md) | Microsoft (via Coursera) | Computer Vision | 2026-01-29 | TFXJJ7QDFUO4 | Computer vision app development, Azure Cognitive Services | https://coursera.org/verify/TFXJJ7QDFUO4 | `certifications/computer-vision/Microsoft.pdf` (+ duplicate at `certifications/computer-science/Microsoft.pdf`) |
 
-| Certification Name | Issuing Organization | Category | Date Earned | Credential / Verification Link | Skills | Status |
-| --- | --- | --- | --- | --- | --- | --- |
-| `TBD` | `TBD` | `AI & Machine Learning` | `YYYY-MM-DD` | `Add official link` | `TBD` | `Planned / In Progress / Completed` |
-
-## Category Quick Links
-
+## Category Directories
 - [AI & Machine Learning](./ai-ml/README.md)
 - [Computer Vision](./computer-vision/README.md)
 - [Computer Science](./computer-science/README.md)
@@ -19,31 +23,16 @@ Central tracking table for all certifications in this portfolio.
 - [Research & Academic](./research/README.md)
 - [Other](./other/README.md)
 
-## Repository Conventions (Scalable Structure)
-
-Use one certification mini-page per credential for maintainability.
-
-- Option A: `certifications/<category>/YYYY-MM-certification-short-name.md`
-- Option B: `certifications/<category>/certification-short-name/README.md`
-- Optional certificate file: `assets/<category>/YYYY-MM-certification-short-name.<ext>`
-
-If certificate files should live beside a mini-page:
-
-- `certifications/<category>/certification-short-name/certificate.<ext>`
+## Certification Template
+- [CERTIFICATION_TEMPLATE.md](./CERTIFICATION_TEMPLATE.md)
+- [certification-template.md](./certification-template.md)
 
 ## How to Add a New Certification
-
-1. Copy [`certification-template.md`](./certification-template.md).
-2. Create the mini-page in the correct category with one naming convention above.
-3. Fill fields with verifiable, factual information only.
-4. Add one row to the category README table.
-5. Add one row to this master table.
-6. Add verification URL and certificate file reference when available.
+1. Add certificate evidence (PDF/image) under the relevant certifications folder or `/assets`.
+2. Create one certification markdown page from the template.
+3. Fill fields using only visible document evidence.
+4. Add the certification row in this master table and in the category table.
+5. If multiple files are the same certificate, keep one certification record and list the others as duplicates.
 
 ## Verification
-
-Prefer official issuer credential-verification URLs. If unavailable, clearly note `N/A` and include non-sensitive supporting certificate files only when appropriate.
-
-## Disclaimer
-
-This repository is a personal learning portfolio. Credential ownership and status should be validated through issuing organizations’ official credential platforms when possible.
+Use official issuer verification links when present; otherwise record **Not provided**.

@@ -1,21 +1,12 @@
-# Computer Science
-
-Certifications covering core computer science foundations and systems-level concepts.
+# Computer Science Certifications
 
 ## Certifications
+| Certification | Issuer | Date | Credential ID | Skills | Verification | Evidence |
+|---|---|---|---|---|---|---|
+| [Programming Languages Ⅰ](./2023-01-programming-languages-1.md) | KAIST (via Coursera) | 2023-01-17 | GFH95882DXF5 | Programming language foundations | https://coursera.org/verify/GFH95882DXF5 | `Proggramming Language 1.pdf` |
 
-| Certification | Issuer | Date | Verification | Skills | Status |
-| --- | --- | --- | --- | --- | --- |
-| `TBD` | `TBD` | `YYYY-MM-DD` | `Add official link` | `TBD` | `Planned / In Progress / Completed` |
-
-## Skills Gained
-
-- Algorithms and data structures
-- Systems thinking and computational problem solving
-- Software design fundamentals
+## Skills Gained (Explicitly Supported)
+- Programming language fundamentals
 
 ## Relevant Technologies / Tools
-
-- C / C++ / Java / Python
-- Git
-- Linux
+- Programming Languages coursework

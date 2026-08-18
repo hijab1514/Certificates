@@ -1,20 +1,15 @@
-# Skills Matrix
+# Skills Demonstrated Through Verified Certifications
 
-This section maps certifications to technical and research skills.
+## Skill Mapping
+| Skill Area | Evidence Source | Status |
+|---|---|---|
+| AI Chatbot Project Development | Build & Deploy AI Messenger Chatbot using IBM Watson | Verified |
+| Machine Learning Fundamentals | ML for Beginners | Verified |
+| Computer Vision Application Development | Build a computer vision app with Azure Cognitive Services | Verified |
+| Programming Language Foundations | Programming Languages Ⅰ | Verified |
+| Cloud & DevOps | Not provided | Awaiting evidence |
+| Research Methods | Not provided | Awaiting evidence |
+| Autonomous/Aerospace Systems | Not provided | Awaiting evidence |
 
-## Skill Areas
-
-| Skill Area | Evidence Source (Certification) | Proficiency Notes |
-| --- | --- | --- |
-| Machine Learning | `TBD` | `TBD` |
-| Computer Vision | `TBD` | `TBD` |
-| Foundation Models | `TBD` | `TBD` |
-| Cloud & DevOps | `TBD` | `TBD` |
-| Software Engineering | `TBD` | `TBD` |
-| Research Methods | `TBD` | `TBD` |
-
-## Maintenance Notes
-
-- Update this file when adding completed certifications.
-- Keep entries evidence-based and aligned with certification outcomes.
-- Avoid subjective claims without supporting credential evidence.
+## Notes
+Only explicitly supported skills from certificate evidence are included.

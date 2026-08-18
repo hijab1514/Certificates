@@ -1,19 +1,12 @@
-# Other
-
-Certifications that do not fit the primary portfolio categories but contribute to professional development.
+# Other Certifications
 
 ## Certifications
+| Certification | Issuer | Date | Credential ID | Skills | Verification | Evidence |
+|---|---|---|---|---|---|---|
+| _No verified certifications recorded yet_ |  |  |  |  |  |  |
 
-| Certification | Issuer | Date | Verification | Skills | Status |
-| --- | --- | --- | --- | --- | --- |
-| `TBD` | `TBD` | `YYYY-MM-DD` | `Add official link` | `TBD` | `Planned / In Progress / Completed` |
+## Skills Gained (From Verified Evidence)
+Not provided yet.
 
-## Skills Gained
-
-- Cross-disciplinary professional skills
-- Communication and collaboration
-- Domain-specific competencies
-
-## Relevant Technologies / Tools
-
-- `TBD`
+## Relevant Technologies / Tools (From Verified Evidence)
+Not provided yet.

@@ -1,129 +1,62 @@
 # Certification & Professional Learning Portfolio
 
-![Portfolio](https://img.shields.io/badge/Portfolio-Professional%20Learning-0A66C2)
-![Focus](https://img.shields.io/badge/Focus-AI%20%7C%20CV%20%7C%20Research-6f42c1)
-![Status](https://img.shields.io/badge/Status-Continuously%20Updated-2ea44f)
+Evidence-based portfolio built from certification documents in this repository.
 
-## 👋 About
+![Portfolio](https://img.shields.io/badge/Portfolio-Certifications-blue)
+![Verified Records](https://img.shields.io/badge/Verified%20Records-4-success)
 
-A curated portfolio of certifications, technical growth, and continuous learning in AI, Machine Learning, Computer Vision, Foundation Models, Aerospace/Autonomous Systems, Cloud, and Software Engineering.
+## Professional Focus
+AI/ML, Computer Vision, Computer Science, Software Engineering, and research-oriented technical development.
 
-Designed for quick review by recruiters, professors, research supervisors, and internship/graduate admissions committees.
+## Certification Statistics
+| Metric | Value |
+|---|---:|
+| Certificate evidence files found | 5 |
+| Verified unique certifications | 4 |
+| Duplicate evidence files consolidated | 1 |
+| Certifications with verification URL | 3 |
+| Last evidence audit | 2026-08-18 |
 
-## 📊 Certification Overview
+## Certification Categories
+- [AI & Machine Learning](/certifications/ai-ml/README.md)
+- [Computer Vision](/certifications/computer-vision/README.md)
+- [Computer Science](/certifications/computer-science/README.md)
+- [Cloud & DevOps](/certifications/cloud/README.md)
+- [Data Science](/certifications/data-science/README.md)
+- [Software Development](/certifications/software-development/README.md)
+- [Research & Academic](/certifications/research/README.md)
+- [Other](/certifications/other/README.md)
 
-| Category | Certifications |
-| --- | ---: |
-| 🤖 AI & Machine Learning | `TBD` |
-| 👁️ Computer Vision | `TBD` |
-| 💻 Computer Science | `TBD` |
-| ☁️ Cloud & DevOps | `TBD` |
-| 📈 Data Science | `TBD` |
-| 🛠️ Software Development | `TBD` |
-| 🔬 Research & Academic | `TBD` |
-| 📚 Other | `TBD` |
-| **Total** | **`TBD`** |
+## Featured Certifications
+| Certification | Issuer | Category | Date | Verification |
+|---|---|---|---|---|
+| Build a computer vision app with Azure Cognitive Services | Microsoft (via Coursera) | Computer Vision | 2026-01-29 | https://coursera.org/verify/TFXJJ7QDFUO4 |
+| Build & Deploy AI Messenger Chatbot using IBM Watson | Deprecated Guided Projects (via Coursera) | AI & Machine Learning | 2023-01-17 | https://coursera.org/verify/DECNH7MJNSFF |
+| Programming Languages Ⅰ | KAIST (via Coursera) | Computer Science | 2023-01-17 | https://coursera.org/verify/GFH95882DXF5 |
 
-> Keep values evidence-based and update after adding completed certifications.
+## Technical Skills Demonstrated Through Certifications
+- Machine learning foundational understanding
+- Computer vision app development with Azure Cognitive Services
+- AI chatbot deployment project workflow
+- Programming language fundamentals
 
-## ⭐ Featured Certifications
+See: [skills/README.md](/skills/README.md)
 
-> Selected certifications most relevant to AI, CV, ML, software engineering, and research goals.
+## Learning Roadmap
+See: [learning-path/README.md](/learning-path/README.md)
 
-| Certification | Issuer | Skills | Date | Verification |
-| --- | --- | --- | --- | --- |
-| `TBD` | `TBD` | `TBD` | `YYYY-MM-DD` | `Add official link` |
-| `TBD` | `TBD` | `TBD` | `YYYY-MM-DD` | `Add official link` |
-| `TBD` | `TBD` | `TBD` | `YYYY-MM-DD` | `Add official link` |
+## Navigation
+- Master index: [certifications/README.md](/certifications/README.md)
+- Skills map: [skills/README.md](/skills/README.md)
+- Learning plan: [learning-path/README.md](/learning-path/README.md)
+- Evidence storage guidance: [assets/README.md](/assets/README.md)
 
-## 🧠 Skills Developed
+## Professional Links
+- GitHub: `[Add GitHub Profile URL]`
+- LinkedIn: `[Add LinkedIn Profile URL]`
 
-### Artificial Intelligence & Machine Learning
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Generative AI / Foundation Models
-- Model evaluation
+## Verification
+Where available, records link to official credential verification pages. If not shown on the certificate, verification is marked **Not provided**.
 
-### Software Engineering
-- Python / C-C++ / JavaScript-TypeScript
-- Git & GitHub workflows
-- APIs and backend fundamentals
-- Testing and debugging
-
-### Research & Technical Skills
-- Research methodology
-- Scientific literature analysis
-- Technical writing and documentation
-- Data analysis and interpretation
-
-> Keep only skills supported by certifications and/or linked projects.
-
-## 🛠️ Related Projects
-
-| Project | Area | Link |
-| --- | --- | --- |
-| `TBD` | `TBD` | `Add GitHub project link` |
-
-## 🗺️ Learning Roadmap
-
-See [learning-path/README.md](./learning-path/README.md) for full details.
-
-### Completed
-- [ ] `TBD`
-
-### Currently Building
-- [ ] Advanced Computer Vision
-- [ ] Generative AI
-- [ ] Multimodal Foundation Models
-
-### Future Goals
-- [ ] Advanced Deep Learning
-- [ ] Explainable AI
-- [ ] Autonomous Systems
-- [ ] AI for Aerospace Applications
-
-## 📁 Certification Categories
-
-- [AI & Machine Learning](./certifications/ai-ml/README.md)
-- [Computer Vision](./certifications/computer-vision/README.md)
-- [Computer Science](./certifications/computer-science/README.md)
-- [Cloud & DevOps](./certifications/cloud/README.md)
-- [Data Science](./certifications/data-science/README.md)
-- [Software Development](./certifications/software-development/README.md)
-- [Research & Academic](./certifications/research/README.md)
-- [Other](./certifications/other/README.md)
-
-## 🔗 Portfolio Navigation
-
-- Master index: [certifications/README.md](./certifications/README.md)
-- Skills matrix: [skills/README.md](./skills/README.md)
-- Learning roadmap: [learning-path/README.md](./learning-path/README.md)
-- Certificate assets: [assets/README.md](./assets/README.md)
-- Certification entry template: [certifications/certification-template.md](./certifications/certification-template.md)
-
-## 👤 Professional Profiles
-
-- GitHub: [@your-github-username](https://github.com/your-github-username)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-id)
-
-## ➕ How to Add a New Certification
-
-1. Select the correct category folder in `certifications/`.
-2. Create a certification mini-page using one of these conventions:
-   - `certifications/<category>/YYYY-MM-certification-short-name.md`, or
-   - `certifications/<category>/certification-short-name/README.md`
-3. Populate fields using factual data only (no estimated/fabricated values).
-4. Add one row to:
-   - `certifications/<category>/README.md`
-   - `certifications/README.md`
-5. If shareable, add certificate evidence under `assets/<category>/`.
-6. Update overview stats and featured certifications if applicable.
-
-## 📜 Verification
-
-Each certification should include an official credential verification URL where available. Certificate files/images are included only for supporting verification where appropriate.
-
-## ⚠️ Disclaimer
-
-This repository is a personal professional-learning portfolio. Certification ownership and validity should be confirmed through the issuing organization’s official credential platform whenever available.
+## Disclaimer
+This repository is a personal portfolio. Credential ownership should be verified on the issuing organization’s credential platform where available.

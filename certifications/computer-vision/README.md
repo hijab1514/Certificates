@@ -1,22 +1,14 @@
-# Computer Vision
-
-Certifications focused on image understanding, visual recognition, detection/segmentation, and vision-based AI applications.
+# Computer Vision Certifications
 
 ## Certifications
+| Certification | Issuer | Date | Credential ID | Skills | Verification | Evidence |
+|---|---|---|---|---|---|---|
+| [Build a computer vision app with Azure Cognitive Services](./2026-01-build-computer-vision-app-azure-cognitive-services.md) | Microsoft (via Coursera) | 2026-01-29 | TFXJJ7QDFUO4 | Computer vision app development, Azure Cognitive Services | https://coursera.org/verify/TFXJJ7QDFUO4 | `Microsoft.pdf` |
 
-| Certification | Issuer | Date | Verification | Skills | Status |
-| --- | --- | --- | --- | --- | --- |
-| `TBD` | `TBD` | `YYYY-MM-DD` | `Add official link` | `TBD` | `Planned / In Progress / Completed` |
-
-## Skills Gained
-
-- Image classification and feature extraction
-- Object detection and segmentation fundamentals
-- Visual model evaluation and performance analysis
+## Skills Gained (Explicitly Supported)
+- Computer vision application development
+- Azure Cognitive Services project implementation
 
 ## Relevant Technologies / Tools
-
-- Python
-- OpenCV
-- PyTorch / TensorFlow
-- Jupyter
+- Azure Cognitive Services
+- Coursera guided project workflow
