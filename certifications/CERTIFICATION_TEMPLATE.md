@@ -10,13 +10,13 @@
 - **Evidence File(s):** <Relative path(s)>
 
 ## Skills (Explicitly Mentioned)
-- <Skill or topic from certificate text>
+- <Skill/topic explicitly stated in certificate text>
 
 ## Topics Covered (Explicitly Mentioned)
-- <Topic from certificate text>
+- <Topic explicitly stated in certificate text>
 
 ## Description
-<Concise summary grounded in visible certificate/course text only.>
+<Concise, evidence-grounded summary only.>
 
 ## Related Projects / Practical Applications
 - <Project/application or Not provided>

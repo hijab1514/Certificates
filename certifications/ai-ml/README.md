@@ -1,39 +1,16 @@
-<<<<<<< HEAD
 # AI & Machine Learning Certifications
-
-Verified certifications focused on AI, machine learning, deep learning, and generative AI.
 
 ## Certifications
 | Certification | Issuer | Date | Credential ID | Skills | Verification | Evidence |
 |---|---|---|---|---|---|---|
-| _No verified certifications recorded yet_ |  |  |  |  |  |  |
+| [Build & Deploy AI Messenger Chatbot using IBM Watson](./2023-01-build-deploy-ai-messenger-chatbot-ibm-watson.md) | Deprecated Guided Projects (via Coursera) | 2023-01-17 | DECNH7MJNSFF | AI chatbot project, IBM Watson integration | https://coursera.org/verify/DECNH7MJNSFF | `Built and deploy AI.pdf` |
+| [ML for Beginners](./2024-11-ml-for-beginners.md) | Not provided | 2024-11-17 | CC-AYGZSUGH | Theoretical and practical understanding of ML for Beginners | Not provided | `ML for begineers.pdf` |
 
-## Skills Gained (From Verified Evidence)
-Not provided yet.
-
-## Relevant Technologies / Tools (From Verified Evidence)
-Not provided yet.
-=======
-# AI & Machine Learning
-
-Certifications focused on machine learning, deep learning, foundation models, and applied AI.
-
-## Certifications
-
-| Certification | Issuer | Date | Verification | Skills | Status |
-| --- | --- | --- | --- | --- | --- |
-| `TBD` | `TBD` | `YYYY-MM-DD` | `Add official link` | `TBD` | `Planned / In Progress / Completed` |
-
-## Skills Gained
-
-- Supervised and unsupervised learning
-- Neural networks and deep learning workflows
-- Model evaluation and experimentation
+## Skills Gained (Explicitly Supported)
+- AI chatbot build/deploy workflow
+- IBM Watson-based messaging chatbot exposure
+- ML foundational understanding
 
 ## Relevant Technologies / Tools
-
-- Python
-- PyTorch / TensorFlow
-- scikit-learn
-- Jupyter
->>>>>>> origin/main
+- IBM Watson
+- Machine Learning basics
