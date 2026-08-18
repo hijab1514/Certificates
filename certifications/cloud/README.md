@@ -1,16 +1,14 @@
 # Cloud & DevOps Certifications
 
-Certifications focused on cloud platforms, deployment practices, DevOps workflows, and operational reliability.
+Verified certifications for cloud platforms, DevOps practices, and deployment workflows.
 
 ## Certifications
-| Certification Name | Issuing Organization | Date Earned | Verification | Skills | Status |
-|---|---|---|---|---|---|
-| `TBD` | `TBD` | `YYYY-MM` | `Link` | `TBD` | `Planned / Completed` |
+| Certification | Issuer | Date | Credential ID | Skills | Verification | Evidence |
+|---|---|---|---|---|---|---|
+| _No verified certifications recorded yet_ |  |  |  |  |  |  |
 
-## Skills Gained
-- Cloud architecture basics
-- CI/CD and deployment workflows
-- Infrastructure reliability practices
+## Skills Gained (From Verified Evidence)
+Not provided yet.
 
-## Relevant Technologies / Tools
-`AWS`, `Azure`, `GCP`, `Docker`, `Kubernetes`, `GitHub Actions`
+## Relevant Technologies / Tools (From Verified Evidence)
+Not provided yet.

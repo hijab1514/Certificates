@@ -1,6 +1,6 @@
-# Data Science Certifications
+# Computer Vision Certifications
 
-Verified certifications for statistics, analytics, and data-science practice.
+Verified certifications focused on computer vision, image understanding, and multimodal vision tasks.
 
 ## Certifications
 | Certification | Issuer | Date | Credential ID | Skills | Verification | Evidence |

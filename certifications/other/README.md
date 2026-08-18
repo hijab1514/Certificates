@@ -1,16 +1,14 @@
 # Other Certifications
 
-Certifications that do not fit the primary categories but are still relevant to professional development.
+Verified certifications that do not fit the primary technical categories.
 
 ## Certifications
-| Certification Name | Issuing Organization | Date Earned | Verification | Skills | Status |
-|---|---|---|---|---|---|
-| `TBD` | `TBD` | `YYYY-MM` | `Link` | `TBD` | `Planned / Completed` |
+| Certification | Issuer | Date | Credential ID | Skills | Verification | Evidence |
+|---|---|---|---|---|---|---|
+| _No verified certifications recorded yet_ |  |  |  |  |  |  |
 
-## Skills Gained
-- Interdisciplinary knowledge
-- Professional development
-- Transferable technical skills
+## Skills Gained (From Verified Evidence)
+Not provided yet.
 
-## Relevant Technologies / Tools
-`TBD`
+## Relevant Technologies / Tools (From Verified Evidence)
+Not provided yet.

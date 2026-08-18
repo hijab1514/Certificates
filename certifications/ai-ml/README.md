@@ -1,16 +1,14 @@
 # AI & Machine Learning Certifications
 
-Certifications related to machine learning, deep learning, computer vision, foundation models, and applied AI.
+Verified certifications focused on AI, machine learning, deep learning, and generative AI.
 
 ## Certifications
-| Certification Name | Issuing Organization | Date Earned | Verification | Skills | Status |
-|---|---|---|---|---|---|
-| `TBD` | `TBD` | `YYYY-MM` | `Link` | `TBD` | `Planned / Completed` |
+| Certification | Issuer | Date | Credential ID | Skills | Verification | Evidence |
+|---|---|---|---|---|---|---|
+| _No verified certifications recorded yet_ |  |  |  |  |  |  |
 
-## Skills Gained
-- Machine Learning fundamentals
-- Model evaluation and optimization
-- Practical AI workflows
+## Skills Gained (From Verified Evidence)
+Not provided yet.
 
-## Relevant Technologies / Tools
-`Python`, `PyTorch`, `TensorFlow`, `scikit-learn`, `Jupyter`
+## Relevant Technologies / Tools (From Verified Evidence)
+Not provided yet.

@@ -1,16 +1,14 @@
 # Computer Science Certifications
 
-Certifications covering core computer science concepts, algorithms, data structures, systems, and theory.
+Verified certifications for core computer science concepts and systems foundations.
 
 ## Certifications
-| Certification Name | Issuing Organization | Date Earned | Verification | Skills | Status |
-|---|---|---|---|---|---|
-| `TBD` | `TBD` | `YYYY-MM` | `Link` | `TBD` | `Planned / Completed` |
+| Certification | Issuer | Date | Credential ID | Skills | Verification | Evidence |
+|---|---|---|---|---|---|---|
+| _No verified certifications recorded yet_ |  |  |  |  |  |  |
 
-## Skills Gained
-- Problem solving and algorithmic thinking
-- Core systems understanding
-- Computational theory foundations
+## Skills Gained (From Verified Evidence)
+Not provided yet.
 
-## Relevant Technologies / Tools
-`C/C++`, `Python`, `Java`, `Git`, `Linux`
+## Relevant Technologies / Tools (From Verified Evidence)
+Not provided yet.

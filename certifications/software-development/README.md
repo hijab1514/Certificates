@@ -1,16 +1,14 @@
 # Software Development Certifications
 
-Certifications focused on software design, application development, testing, architecture, and engineering best practices.
+Verified certifications for software engineering, testing, and development practices.
 
 ## Certifications
-| Certification Name | Issuing Organization | Date Earned | Verification | Skills | Status |
-|---|---|---|---|---|---|
-| `TBD` | `TBD` | `YYYY-MM` | `Link` | `TBD` | `Planned / Completed` |
+| Certification | Issuer | Date | Credential ID | Skills | Verification | Evidence |
+|---|---|---|---|---|---|---|
+| _No verified certifications recorded yet_ |  |  |  |  |  |  |
 
-## Skills Gained
-- Software lifecycle fundamentals
-- Clean code and maintainability
-- Testing and quality assurance
+## Skills Gained (From Verified Evidence)
+Not provided yet.
 
-## Relevant Technologies / Tools
-`Java`, `Python`, `JavaScript`, `Git`, `Testing Frameworks`
+## Relevant Technologies / Tools (From Verified Evidence)
+Not provided yet.

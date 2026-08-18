@@ -1,16 +1,14 @@
 # Research & Academic Certifications
 
-Certifications and academic credentials related to research methods, technical writing, experimentation, and scientific communication.
+Verified certifications for research methods, academic communication, and scholarly practice.
 
 ## Certifications
-| Certification Name | Issuing Organization | Date Earned | Verification | Skills | Status |
-|---|---|---|---|---|---|
-| `TBD` | `TBD` | `YYYY-MM` | `Link` | `TBD` | `Planned / Completed` |
+| Certification | Issuer | Date | Credential ID | Skills | Verification | Evidence |
+|---|---|---|---|---|---|---|
+| _No verified certifications recorded yet_ |  |  |  |  |  |  |
 
-## Skills Gained
-- Research methodology
-- Literature review and synthesis
-- Technical communication
+## Skills Gained (From Verified Evidence)
+Not provided yet.
 
-## Relevant Technologies / Tools
-`LaTeX`, `Python`, `Jupyter`, `Reference Managers`, `Research Databases`
+## Relevant Technologies / Tools (From Verified Evidence)
+Not provided yet.

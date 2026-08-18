@@ -1,19 +1,22 @@
 # <Certification Name>
 
-- **Issuing Organization:** <Organization>
-- **Date Earned:** <YYYY-MM-DD or YYYY-MM>
-- **Credential ID (Public):** <ID or N/A>
-- **Verification Link:** <Official credential URL or N/A>
-- **Certificate File/Image:** <Relative path in /assets or category folder>
+- **Issuing Organization:** <Organization or Not provided>
+- **Credential ID:** <Public ID or Not provided>
+- **Issue Date:** <YYYY-MM-DD / YYYY-MM / Not provided>
+- **Expiration Date:** <YYYY-MM-DD / Not provided>
+- **Verification URL:** <Official issuer URL or Not provided>
+- **Primary Category:** <One category>
+- **Secondary Topics (Optional):** <Comma-separated or Not provided>
+- **Evidence File(s):** <Relative path(s)>
 
-## Skills Learned
-- <Skill 1>
-- <Skill 2>
-- <Skill 3>
+## Skills (Explicitly Mentioned)
+- <Skill or topic from certificate text>
+
+## Topics Covered (Explicitly Mentioned)
+- <Topic from certificate text>
 
 ## Description
-<Short summary of the certification scope and learning outcomes.>
+<Concise summary grounded in visible certificate/course text only.>
 
 ## Related Projects / Practical Applications
-- <Project or application 1>
-- <Project or application 2>
+- <Project/application or Not provided>
